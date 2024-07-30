@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Duarte</h1>
-<h3 align="center">Enthusiast of Back End Development and Service Automation with a focus on Agile Methodologies. Graduated from the Federal Rural University of the Amazon (UFRA) in the city of Belém do Pará/Brazil, in the Bachelor of Information Systems course.</h3>
+<h3 align="left">Enthusiast of Back End Development and Service Automation with a focus on Agile Methodologies. Graduated from the Federal Rural University of the Amazon (UFRA) in the city of Belém do Pará/Brazil, in the Bachelor of Information Systems course.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieldu4rte" alt="gabrieldu4rte" /></a> </p>
 
@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldu4rte&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gabrieldu4rte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldu4rte&show_icons=true&theme=tokyonight&locale=en" alt="gabrieldu4rte" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldu4rte&theme=dark" alt="gabrieldu4rte" /></p>
