@@ -1,7 +1,7 @@
 ![](mario.gif)
 
 <h1 align="center">Hi 👋, I'm Gabriel Duarte</h1>
-<h3 align="left">Enthusiast of Back End Development and Service Automation with a focus on Agile Methodologies. Graduated from the Federal Rural University of the Amazon (UFRA) in the city of Belém do Pará/Brazil, in the Bachelor of Information Systems course.</h3>
+<h3 align="left">Enthusiast of Full Stack Development and Service Automation with a focus on Agile Methodologies. Graduated from the Federal Rural University of the Amazon (UFRA) in the city of Belém do Pará/Brazil, in the Bachelor of Information Systems course.</h3>
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
