@@ -52,13 +52,6 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/gabrieldu4rte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldu4rte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldu4rte&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 
