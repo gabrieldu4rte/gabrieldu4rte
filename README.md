@@ -1,18 +1,18 @@
 ![](mario.gif)
 
-<h1 align="center">Hi 👋, I'm Gabriel Duarte</h1>
-<h3 align="left">Enthusiast of Full Stack Development and Service Automation with a focus on Agile Methodologies. Graduated from the Federal Rural University of the Amazon (UFRA) in the city of Belém do Pará/Brazil, in the Bachelor of Information Systems course.</h3>
+<h1 align="center">Olá 👋, Eu sou Gabriel Duarte</h1>
+<h3 align="left">Entusiasta de desenvolvimento Full Stack e automação de serviços, com foco em metodologias ágeis. Graduado em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA), em Belém do Pará, Brasil.</h3>
 
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 Atualmente estou aprendendo **C#, .NET**
 
-## Connect with me
+## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-duarte-50824a170/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielduartedt69@gmail.com)
 
-# Tech Stack
+# Stack Tecnológica
 
-## Languages
+## Linguagens
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,25 +30,24 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
-## Database
+## Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Cloud Computing Service
+## Serviço de Computação em Nuvem
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Operational System
+## Sistemas Operacionais
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-## Tools
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
